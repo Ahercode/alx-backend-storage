@@ -1,6 +1,6 @@
 -- create users table
 -- with attributes id, email, and name
-
+-- by phils
 DROP TABLE IF EXISTS users;
 
 CREATE TABLE IF NOT EXISTS users (
