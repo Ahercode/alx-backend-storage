@@ -1,5 +1,6 @@
 -- script that creates a table users following these requirements
 -- id, email, name, and country
+-- by phils
 
 DROP TABLE IF EXISTS users;
 
